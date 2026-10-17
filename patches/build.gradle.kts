@@ -1,14 +1,15 @@
-group = "app.template"
+
+group = "io.github.crispinoh"
 
 patches {
-    // TODO: Update this section with your project details.
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
+        name = "Crispin-Oh Tablet Spoof Patches"
+        description = "Patches that spoof the device as a Galaxy Tab S10 Ultra (Wi-Fi)"
+        source = "git@github.com:Crispin-Oh/tablet-spoof-patches.git"
+        author = "Crispin-Oh"
         contact = "na"
-        website = "na"
+        website = "https://github.com/Crispin-Oh/tablet-spoof-patches"
+
         license = "GPLv3"
     }
 }
